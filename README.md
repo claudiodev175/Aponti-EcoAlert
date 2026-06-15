@@ -149,6 +149,80 @@ Boas práticas adotadas:
 
 ---
 
+## Dashboard para Gestores
+### Indicadores estratégicos:
+
+•	Total de denúncias;
+
+•	Tempo médio de atendimento;
+
+•	Quantidade de resíduos removidos;
+
+•	Bairros mais críticos;
+
+•	Participação por escola;
+
+•	Participação por comunidade;
+
+•	Economia gerada ao município.
+
+## Arquitetura Tecnológica
+
+### Aplicativo
+
+•	Flutter
+
+•	FlutterFlow
+
+### Backend
+
+•	Firebase
+
+•	Node.js
+
+### Banco de Dados
+
+•	MySQL Workbench
+
+### Geolocalização
+
+•	Google Maps API
+
+•	OpenStreetMap
+
+### Inteligência Artificial
+
+•	OpenAI Vision
+
+•	Google Vision AI
+
+### Analytics
+
+•	Power BI
+
+•	Looker Studio
+
+### Indicadores de Impacto
+
+•	Redução dos pontos de descarte irregular;
+
+•	Aumento da participação cidadã;
+
+•	Redução dos custos de fiscalização;
+
+•	Redução dos custos de limpeza urbana;
+
+•	Melhoria da qualidade ambiental;
+
+•	Engajamento escolar;
+
+•	Satisfação da população.
+
+## Diferencial Inovador
+
+O EcoAlert Rewards transforma a denúncia de problemas urbanos em uma experiência gamificada, recompensando o cidadão por contribuir com a limpeza e sustentabilidade da cidade.
+Ao alinhar tecnologia, participação popular e incentivos financeiros, o projeto cria um modelo sustentável de gestão colaborativa de resíduos urbanos, fortalecendo a cidadania e contribuindo diretamente para o alcance da ODS 11.
+
 ## 👨‍💻 Equipe
 
 **Turma:** Análise de Dados – Turma 03
@@ -161,6 +235,5 @@ Boas práticas adotadas:
 | Cláudio Barros     |
 | Gustavo Henrique   |
 
----
 
 

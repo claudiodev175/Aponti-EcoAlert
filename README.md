@@ -34,6 +34,53 @@ Habitantes dos bairros da Região Metropolitana do Recife com maior incidência 
 
 ---
 
+## Funcionalidades
+
+### Cadastro de Usuários
+
+•	CPF
+
+•	Endereço
+
+•	Matrícula da conta de saneamento
+
+•	E-mail
+
+•	Telefone
+
+### Registro de Denúncias
+
+O usuário poderá:
+
+•	Tirar foto do local;
+
+•	Compartilhar localização GPS;
+
+•	Classificar o tipo de resíduo;
+
+•	Enviar observações.
+
+### Inteligência Artificial
+
+A IA será responsável por:
+
+•	Detectar presença de lixo na imagem;
+
+•	Evitar denúncias duplicadas;
+
+•	Identificar áreas críticas;
+
+•	Priorizar atendimentos.
+
+### Mapa Inteligente
+Visualização em tempo real dos:
+•	Pontos denunciados;
+•	Áreas críticas;
+•	Locais já atendidos;
+•	Ecopontos disponíveis.
+
+---
+
 ## ♻️ EcoAlert Rewards
 
 Transformando cidadania em benefícios para uma cidade mais limpa
